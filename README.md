@@ -38,7 +38,7 @@ To replicate or build upon this project:
 
 ## Contact
 
-For more information or to collaborate on similar projects, please reach out to [Your Name] at [Your Email].
+For more information or to collaborate on similar projects, please reach out to me at akshat.26oct99@gmail.com.
 
 ## License
 
